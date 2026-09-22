@@ -8,13 +8,13 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Talkabhishek-4&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> WHO AM I`
 
 ```js
 const abhishek = {
@@ -59,7 +59,7 @@ I enjoy transforming ideas into **clean interfaces, responsive websites and comp
 
 ### ⚡ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 
 <br><br>
 
@@ -184,6 +184,7 @@ Database
 | :------------------------ | :--------------------: |
 | 🎨 UI / UX Design         | `██████████████████░░` |
 | ⚛️ React                  | `████████████████░░░░` |
+| 🎨 Tailwind CSS           | `████████████████░░░░` |
 | 🌐 Full-Stack Development | `███████████████░░░░░` |
 | 🗄️ SQL & Databases       | `██████████████░░░░░░` |
 | 🧩 Problem Solving        | `██████████████░░░░░░` |
@@ -196,13 +197,9 @@ Database
 
 <div align="center">
 
-
-
-
-
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=Talkabhishek-4&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&border_radius=15"/>
 
 </div>
 
@@ -228,8 +225,11 @@ Database
 │   🎨  DESIGN                                               │
 │       UI • UX • Figma • Canva                              │
 │                                                            │
+│   ⚡  STYLING                                               │
+│       CSS • Tailwind CSS                                   │
+│                                                            │
 │   ⚛️  FRONTEND                                             │
-│       HTML • CSS • JavaScript • React                      │
+│       HTML • JavaScript • React                            │
 │                                                            │
 │   🌐  BACKEND                                              │
 │       Node.js • Express                                    │
@@ -255,7 +255,7 @@ Database
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://https://www.linkedin.com/in/abhishek-jaiswal-b1317b327/in/Abhishek Jaiswal/">
+<a href="https://www.linkedin.com/in/abhishek-jaiswal-b1317b327/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
